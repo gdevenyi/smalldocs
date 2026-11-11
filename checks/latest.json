@@ -1,9 +1,11 @@
 {
-  "checkedAt": "2026-11-10T19:22:26.021Z",
+  "checkedAt": "2026-11-11T00:10:44.222Z",
   "base": "https://smalldocs.org",
-  "commit": "8767bc7f5a9de8790b623db0f64268601bd1750b",
-  "commitShort": "8767bc7",
-  "result": "pending",
-  "error": "No manifest published on GitHub for this commit yet.",
-  "manifestUrl": "https://raw.githubusercontent.com/espressoplease/smalldocs/trust-manifests/8767bc7f5a9de8790b623db0f64268601bd1750b.json"
+  "commit": "5d551eba18bec1b23ab131972c5503f8fa371a76",
+  "commitShort": "5d551eb",
+  "result": "ok",
+  "totalFiles": 241,
+  "matched": 241,
+  "mismatches": [],
+  "manifestUrl": "https://raw.githubusercontent.com/espressoplease/smalldocs/trust-manifests/5d551eba18bec1b23ab131972c5503f8fa371a76.json"
 }
